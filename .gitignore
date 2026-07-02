@@ -1,0 +1,10 @@
+# автосейв
+.ipynb_checkpoints/
+
+#кеш
+__pycache__/
+*.pyc
+
+# сисфайлы
+.DS_Store
+Thumbs.db
