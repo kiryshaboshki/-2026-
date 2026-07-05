@@ -75,17 +75,24 @@
 
 
  Как запустить
+ 
 консоль:
+
  Клонировать репозиторий
+ 
 git clone https://github.com/kiryshaboshki/-2026-.git
 
  Установить зависимости
+ 
 pip install -r requirements.txt
 
  Запустить Jupyter
+ 
 jupyter notebook notebooks/01_eda_and_preprocessing.ipynb
 
 
+
 Автор
+
 
 GitHub: [kiryshaboshki](https://github.com/kiryshaboshki)
