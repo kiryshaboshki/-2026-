@@ -13,26 +13,8 @@
 
 Структура проекта
 
-practise2026/
-├── data/
-│   ├── raw/                     Исходные данные
-│   │   └── ai_student_impact_dataset (1).csv
-│   ├── processed/               Обработанные данные для Power BI
-│   │   └── ai_data_for_powerbi.csv
-│   └── results/                 Графики и результаты модели
-│       ├── burnout_distribution.png
-│       ├── ai_hours_vs_burnout.png
-│       ├── anxiety_dependency_vs_burnout.png
-│       └── confusion_matrix.png
-├── notebooks/
-│   ├── 01_eda_and_preprocessing.ipynb    EDA, отбор признаков, кодирование
-│   └── 02_model_training.ipynb           Визуализация, обучение, оценка
-├── powerbi/
-│   ├── burnout_dashboard.pbix            Интерактивный дашборд
-│   └── dashboard_screenshot.png          Скриншот дашборда
-├── .gitignore
-├── README.md
-└── requirements.txt
+<img width="1019" height="842" alt="image" src="https://github.com/user-attachments/assets/3158445e-f35f-4b7c-bdd6-b77d39be07f7" />
+
 
 
  Результаты модели
@@ -90,6 +72,8 @@ practise2026/
 | matplotlib / seaborn   | Визуализация данных        |
 | Power BI               | Интерактивный дашборд      |
 | Git / GitHub           | Контроль версий и портфолио|
+
+
  Как запустить
 консоль:
  Клонировать репозиторий
