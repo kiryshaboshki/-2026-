@@ -44,7 +44,8 @@
 
 Скриншот дашборда
 
-<img width="2313" height="1300" alt="image" src="https://github.com/user-attachments/assets/28d2c79a-fef8-4f49-87df-377f8689ccef" />
+<img width="2327" height="1308" alt="image" src="https://github.com/user-attachments/assets/843cc771-cc6e-43c2-982c-4eee24259bcf" />
+
 
 
 Графики на дашборде:
